@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1559
     wikipedia: http://en.wikipedia.org/wiki/Finley_Peter_Dunne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22537#Mr.-Dooley-in-Peace-and-in-War
 gutenberg_bookshelf:
 - Humor
 - Bestsellers, American, 1895-1923
