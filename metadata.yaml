@@ -1,0 +1,32 @@
+_repo: Mr.-Dooley-in-Peace-and-in-War_22537
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunne, Finley Peter
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '1559'
+    url: http://www.gutenberg.org/2009/agents/1559
+    wikipedia: http://en.wikipedia.org/wiki/Finley_Peter_Dunne
+description: ''
+gutenberg_bookshelf:
+- Humor
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '2007-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, American'
+- !lcc 'PN'
+- !lcsh 'Irish Americans -- Fiction'
+- !lcsh 'Dooley, Mr. (Fictitious character) -- Fiction'
+title: Mr. Dooley in Peace and in War
+url: http://www.gutenberg.org/ebooks/22537
